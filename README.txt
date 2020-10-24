@@ -1,4 +1,5 @@
 === Plugin Name ===
+Plugin Name: Jobs Search Posts
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 5.6
